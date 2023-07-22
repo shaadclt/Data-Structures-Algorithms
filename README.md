@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of classic and essential data structures and algorithms implemented in Python. Whether you are a student preparing for coding interviews, a programmer looking to refresh your knowledge, or just an enthusiast eager to explore data structures and algorithms, this repository is the perfect resource to get started.
+This repository contains a collection of classic and essential data structures and algorithms implemented in Python.
 
 **Note**: While the implementations are intended to be educational and informative, they may not always be the most efficient or optimized versions for production use. The primary goal is to provide clear and concise code to aid in understanding the concepts.
 
